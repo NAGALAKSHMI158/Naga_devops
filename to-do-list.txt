@@ -1,2 +1,2 @@
--learn basics of devops architecture.
+naga -learn basics of devops architecture.
 -return to home
